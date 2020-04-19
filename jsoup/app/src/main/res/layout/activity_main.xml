@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activityMain"
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<TextView
+    android:id="@+id/txtis"
+    android:layout_width="match_parent"
+    android:layout_height="20dp"
+    android:text="dfkjd"
+    android:gravity="center">
+
+</TextView>
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        ></ListView>
+</RelativeLayout>
